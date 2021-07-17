@@ -35696,3 +35696,19 @@ BeginRTS
 건물에 강합니다. 항공기에 약합니다.
 EndStr
 
+
+BeginLBL OBJECT:Pukguksong2
+BeginRTS
+북극성 2호 미사일
+EndStr
+
+BeginLBL CONTROLBAR:ConstructNorthKoreaPukguksong2
+BeginRTS
+북극성 2호 미사일(&P)
+EndStr
+
+BeginLBL CONTROLBAR:ToolTipNorthKoreaBuildPukguksong2
+BeginRTS
+건물에 강합니다. 항공기에 약합니다.
+EndStr
+

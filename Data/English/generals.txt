@@ -35171,3 +35171,20 @@ Strong vs. buildings
  Weak vs. aircraft
 EndStr
 
+
+BeginLBL OBJECT:Pukguksong2
+BeginRTS
+Pukguksong 2 Missile
+EndStr
+
+BeginLBL CONTROLBAR:ConstructNorthKoreaPukguksong2
+BeginRTS
+Pukguksong 2 Missile(&P)
+EndStr
+
+BeginLBL CONTROLBAR:ToolTipNorthKoreaBuildPukguksong2
+BeginRTS
+Strong vs. buildings 
+ Weak vs. aircraft
+EndStr
+
