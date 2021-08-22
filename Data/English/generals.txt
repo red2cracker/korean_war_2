@@ -35188,3 +35188,20 @@ Strong vs. buildings
  Weak vs. aircraft
 EndStr
 
+
+BeginLBL OBJECT:Mi2
+BeginRTS
+Mi-2 Hoplite
+EndStr
+
+BeginLBL CONTROLBAR:ConstructNorthKoreaVehicleMi2
+BeginRTS
+Mi-2 Hoplite(&H)
+EndStr
+
+BeginLBL CONTROLBAR:ToolTipNorthKoreaBuildMi2
+BeginRTS
+Strong vs. light vehicles, infantry 
+ Weak vs. rocket soldiers, anti-air base defense
+EndStr
+

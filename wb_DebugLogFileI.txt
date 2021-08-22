@@ -1,0 +1,215 @@
+Log D:\Program Files (x86)\EA Games\Korean War 2\wb_DebugLogFileI.txt opened: Fri Aug 20 17:06:17 2021
+
+*** Initing Memory Manager prior to main!
+starting Worldbuilder.
+_INTERNAL defined.
+Win32BIGFileSystem::openArchiveFile - opening BIG file AudioKoreanZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 162873608 bytes
+Win32BIGFileSystem::openArchiveFile - 2563 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading AudioKoreanZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - AudioKoreanZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file AudioZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 23965542 bytes
+Win32BIGFileSystem::openArchiveFile - 287 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading AudioZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - AudioZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file GensecZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 787464 bytes
+Win32BIGFileSystem::openArchiveFile - 1 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading GensecZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - GensecZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file INIZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 18764687 bytes
+Win32BIGFileSystem::openArchiveFile - 135 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading INIZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - INIZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file KoreanZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 80822792 bytes
+Win32BIGFileSystem::openArchiveFile - 79 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading KoreanZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - KoreanZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file MapsZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 39749312 bytes
+Win32BIGFileSystem::openArchiveFile - 299 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading MapsZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - MapsZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file Music.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 786724 bytes
+Win32BIGFileSystem::openArchiveFile - 1 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading Music.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - Music.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file MusicZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 34741916 bytes
+Win32BIGFileSystem::openArchiveFile - 8 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading MusicZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - MusicZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file PatchZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 118822 bytes
+Win32BIGFileSystem::openArchiveFile - 3 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading PatchZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - PatchZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file ShadersZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 996 bytes
+Win32BIGFileSystem::openArchiveFile - 8 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading ShadersZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - ShadersZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file SpeechKoreanZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 264498222 bytes
+Win32BIGFileSystem::openArchiveFile - 2555 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading SpeechKoreanZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - SpeechKoreanZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file SpeechZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 6174552 bytes
+Win32BIGFileSystem::openArchiveFile - 12 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading SpeechZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - SpeechZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file TerrainZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 8660432 bytes
+Win32BIGFileSystem::openArchiveFile - 149 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading TerrainZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - TerrainZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file TexturesZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 222753036 bytes
+Win32BIGFileSystem::openArchiveFile - 3546 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading TexturesZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - TexturesZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file W3DKoreanZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 2503889 bytes
+Win32BIGFileSystem::openArchiveFile - 19 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading W3DKoreanZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - W3DKoreanZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file W3DZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 189741064 bytes
+Win32BIGFileSystem::openArchiveFile - 4432 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading W3DZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - W3DZH.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file WindowZH.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 8493520 bytes
+Win32BIGFileSystem::openArchiveFile - 80 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading WindowZH.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - WindowZH.big inserted into the archive file map.
+GetStringFromRegistry - looking in SOFTWARE\Electronic Arts\EA Games\Generals for key InstallPath
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Audio.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 127940044 bytes
+Win32BIGFileSystem::openArchiveFile - 1720 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Audio.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Audio.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\AudioKorean.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 104742820 bytes
+Win32BIGFileSystem::openArchiveFile - 1772 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\AudioKorean.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\AudioKorean.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\gensec.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 787464 bytes
+Win32BIGFileSystem::openArchiveFile - 1 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\gensec.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\gensec.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\INI.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 7607479 bytes
+Win32BIGFileSystem::openArchiveFile - 92 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\INI.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\INI.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Korean.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 2664968 bytes
+Win32BIGFileSystem::openArchiveFile - 12 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Korean.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Korean.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\maps.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 23554152 bytes
+Win32BIGFileSystem::openArchiveFile - 135 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\maps.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\maps.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Music.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 158818808 bytes
+Win32BIGFileSystem::openArchiveFile - 50 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Music.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Music.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Patch.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 1462590 bytes
+Win32BIGFileSystem::openArchiveFile - 9 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Patch.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Patch.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\shaders.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 1200 bytes
+Win32BIGFileSystem::openArchiveFile - 10 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\shaders.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\shaders.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Speech.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 13479230 bytes
+Win32BIGFileSystem::openArchiveFile - 18 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Speech.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Speech.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\SpeechKorean.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 269102636 bytes
+Win32BIGFileSystem::openArchiveFile - 1552 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\SpeechKorean.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\SpeechKorean.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Terrain.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 48342856 bytes
+Win32BIGFileSystem::openArchiveFile - 233 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Terrain.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Terrain.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Textures.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 333031108 bytes
+Win32BIGFileSystem::openArchiveFile - 3748 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Textures.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Textures.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\W3D.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 184549391 bytes
+Win32BIGFileSystem::openArchiveFile - 4556 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\W3D.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\W3D.big inserted into the archive file map.
+Win32BIGFileSystem::openArchiveFile - opening BIG file D:\Program Files (x86)\EA Games\Command and Conquer Generals\Window.big
+Win32BIGFileSystem::openArchiveFile - size of archive file is 7962700 bytes
+Win32BIGFileSystem::openArchiveFile - 78 are contained in archive
+Win32BIGFileSystem::loadBigFilesFromDirectory - loading D:\Program Files (x86)\EA Games\Command and Conquer Generals\Window.big into the directory tree.
+Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\Command and Conquer Generals\Window.big inserted into the archive file map.
+EXE CRC: 0x7650F6A5
+GetStringFromRegistry - looking in SOFTWARE\Electronic Arts\EA Games\Command and Conquer Generals Zero Hour for key UserDataLeafName
+Hostname is 'PC07033'
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
+Hostname is 'PC07033'
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
+Hostname is 'PC07033'
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
+TheWritableGlobalData 5100bdc
+GetStringFromRegistry - looking in SOFTWARE\Electronic Arts\EA Games\Command and Conquer Generals Zero Hour for key Language
+Looking in data\Generals.str for string file
+Looking in data\korean\Generals.csf for compiled string file
+ScriptEngine::setGlobalDifficulty(1)
+THRUST locos may not have zero m_minSpeed; healing...
+Invalid Sound 'SoundAmbient' in Object 'Lightning05Missile'. (TomahawkMissileMoveLoop?)
+Invalid Sound 'SoundAmbient' in Object 'KN23IskanderMissile'. (ScudStormIncomingWhistle?)
+WW3D::Init hwnd = 0022052C
+Init DX8Wrapper
+DX8Wrapper main thread: 0x2f0
+Reset DX8Wrapper statistics
+Create Direct3D8
+Enumerate devices
+DX8Wrapper Init completed
+Allocate Debug Resources
+Init Dazzles
+WW3D Init completed
+Attempting Set_Render_Device: name: NVIDIA GeForce GTX 1650 (nvldumd.dll:26.21.14.3200), width: 800, height: 600, windowed: 1
+Found zbuffer mode D3DFMT_D24S8
+Using Display/BackBuffer Formats: D3DFMT_X8R8G8B8/D3DFMT_A8R8G8B8
+ThreadClass::Execute: Started thread Texture loader thread, thread ID is 86C
+Reset/Create_Device done, reset_device=0, restore_assets=1
+ShaderManager ChipsetID 11
+Targa: Failed to open file "trstrtholecvr.tga"
+Base tex height 256
+***
+
+*** Missing strings ***
+*** MISSING: 'OBJECT:MI2' ***
+*** MISSING: 'INI:FactionNorthKorea' ***
+*** End missing strings ***
+
+Log closed: Fri Aug 20 17:06:28 2021
+
