@@ -1,4 +1,4 @@
-Log D:\Program Files (x86)\EA Games\Korean War 2\wb_DebugLogFileI.txt opened: Tue Sep 07 15:47:12 2021
+Log D:\Program Files (x86)\EA Games\Korean War 2\wb_DebugLogFileI.txt opened: Fri Aug 20 17:06:17 2021
 
 *** Initing Memory Manager prior to main!
 starting Worldbuilder.
@@ -167,18 +167,18 @@ Win32BIGFileSystem::loadBigFilesFromDirectory - D:\Program Files (x86)\EA Games\
 EXE CRC: 0x7650F6A5
 GetStringFromRegistry - looking in SOFTWARE\Electronic Arts\EA Games\Command and Conquer Generals Zero Hour for key UserDataLeafName
 Hostname is 'PC07033'
-IP: 0x714611AC / 0xAC114671 (172.17.70.113)
-IP: 0x011DA8C0 / 0xC0A81D01 (192.168.29.1)
-IP: 0xE7F42976 / 0x7629F4E7 (118.41.244.231)
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
 Hostname is 'PC07033'
-IP: 0x714611AC / 0xAC114671 (172.17.70.113)
-IP: 0x011DA8C0 / 0xC0A81D01 (192.168.29.1)
-IP: 0xE7F42976 / 0x7629F4E7 (118.41.244.231)
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
 Hostname is 'PC07033'
-IP: 0x714611AC / 0xAC114671 (172.17.70.113)
-IP: 0x011DA8C0 / 0xC0A81D01 (192.168.29.1)
-IP: 0xE7F42976 / 0x7629F4E7 (118.41.244.231)
-TheWritableGlobalData 4f7f9a4
+IP: 0x815F12AC / 0xAC125F81 (172.18.95.129)
+IP: 0xF12112AC / 0xAC1221F1 (172.18.33.241)
+IP: 0xA91BB579 / 0x79B51BA9 (121.181.27.169)
+TheWritableGlobalData 5100bdc
 GetStringFromRegistry - looking in SOFTWARE\Electronic Arts\EA Games\Command and Conquer Generals Zero Hour for key Language
 Looking in data\Generals.str for string file
 Looking in data\korean\Generals.csf for compiled string file
@@ -186,9 +186,9 @@ ScriptEngine::setGlobalDifficulty(1)
 THRUST locos may not have zero m_minSpeed; healing...
 Invalid Sound 'SoundAmbient' in Object 'Lightning05Missile'. (TomahawkMissileMoveLoop?)
 Invalid Sound 'SoundAmbient' in Object 'KN23IskanderMissile'. (ScudStormIncomingWhistle?)
-WW3D::Init hwnd = 00290C88
+WW3D::Init hwnd = 0022052C
 Init DX8Wrapper
-DX8Wrapper main thread: 0x2a60
+DX8Wrapper main thread: 0x2f0
 Reset DX8Wrapper statistics
 Create Direct3D8
 Enumerate devices
@@ -199,18 +199,17 @@ WW3D Init completed
 Attempting Set_Render_Device: name: NVIDIA GeForce GTX 1650 (nvldumd.dll:26.21.14.3200), width: 800, height: 600, windowed: 1
 Found zbuffer mode D3DFMT_D24S8
 Using Display/BackBuffer Formats: D3DFMT_X8R8G8B8/D3DFMT_A8R8G8B8
-ThreadClass::Execute: Started thread Texture loader thread, thread ID is 878
+ThreadClass::Execute: Started thread Texture loader thread, thread ID is 86C
 Reset/Create_Device done, reset_device=0, restore_assets=1
 ShaderManager ChipsetID 11
 Targa: Failed to open file "trstrtholecvr.tga"
 Base tex height 256
-Peek mouse 661, 387
-Peek mouse 661, 387
 ***
 
 *** Missing strings ***
+*** MISSING: 'OBJECT:MI2' ***
 *** MISSING: 'INI:FactionNorthKorea' ***
 *** End missing strings ***
 
-Log closed: Tue Sep 07 15:47:23 2021
+Log closed: Fri Aug 20 17:06:28 2021
 

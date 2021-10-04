@@ -35729,3 +35729,20 @@ BeginRTS
  미사일 보병, 대공 방어물에 약합니다.
 EndStr
 
+
+BeginLBL OBJECT:MD500
+BeginRTS
+MD500 헬리콥터
+EndStr
+
+BeginLBL CONTROLBAR:ConstructNorthKoreaVehicleMD500
+BeginRTS
+MD500 헬리콥터(&M)
+EndStr
+
+BeginLBL CONTROLBAR:ToolTipNorthKoreaBuildMD500
+BeginRTS
+차량에 강합니다.
+ 미사일 보병, 대공 방어물에 약합니다.
+EndStr
+

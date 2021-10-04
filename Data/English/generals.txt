@@ -35205,3 +35205,20 @@ Strong vs. light vehicles, infantry
  Weak vs. rocket soldiers, anti-air base defense
 EndStr
 
+
+BeginLBL OBJECT:MD500
+BeginRTS
+MD500 Helicopter
+EndStr
+
+BeginLBL CONTROLBAR:ConstructNorthKoreaVehicleMD500
+BeginRTS
+MD500 Helicopter(&M)
+EndStr
+
+BeginLBL CONTROLBAR:ToolTipNorthKoreaBuildMD500
+BeginRTS
+Strong vs. vehicles
+ Weak vs. rocket soldiers, anti-air base defense
+EndStr
+
